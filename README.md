@@ -5,12 +5,12 @@ This is a full-stack Airbnb clone web application where users can sign up, list 
 
  🚀 Features
 
- ✅ User Signup/Login with authentication
- 🏘️ List new properties with image uploads
- 📦 Dashboard to manage your listings
- 📅 Booking system for users
- 📁 Upload and store property images
- 🌐 Clean, responsive UI using Tailwind CSS
+ ✅ User Signup/Login with authentication  
+ 🏘️ List new properties with image uploads   
+ 📦 Dashboard to manage your listings  
+ 📅 Booking system for users  
+ 📁 Upload and store property images  
+ 🌐 Clean, responsive UI using Tailwind CSS  
 
 
 🔧 Tech Stack
@@ -22,9 +22,4 @@ Category             Tools/Tech
  Uploads         | Multer                             
  Dev Tools       | Nodemon, Git, GitHub               
 
- 🛠️ Setup Instructions
 
-Clone the repository
-   ```bash
-     https://github.com/VinaySingh8173/Airbnb-Clone-Website
-     http://localhost:3003/
