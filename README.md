@@ -6,10 +6,15 @@ A full-stack Airbnb-style booking platform built with Node.js, Express, MongoDB,
  🚀 Features
 
  ✅ User Signup/Login with authentication
+ 
  🏘️ List new properties with image uploads
+ 
  📦 Dashboard to manage your listings
+ 
  📅 Booking system for users
+ 
  📁 Upload and store property images
+ 
  🌐 Clean, responsive UI using Tailwind CSS
 
 
