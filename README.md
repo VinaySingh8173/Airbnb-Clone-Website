@@ -22,4 +22,7 @@ Category             Tools/Tech
  Uploads         | Multer                             
  Dev Tools       | Nodemon, Git, GitHub               
 
+🏠 Homepage
+
+![img](https://github.com/user-attachments/assets/b749bddb-0ae6-41cf-b752-5f45925cb39e)
 
