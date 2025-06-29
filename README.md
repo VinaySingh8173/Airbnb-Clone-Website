@@ -15,7 +15,7 @@ This is a full-stack Airbnb clone web application where users can sign up, list 
 
 🔧 Tech Stack
 
-Category             Tools/Tech                          
+Category             Tools / Tech                          
  Backend         | Node.js, Express.js                
  Frontend        | EJS templating + Tailwind CSS       
  Database        | MongoDB, Mongoose                  
